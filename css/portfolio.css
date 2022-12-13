@@ -1,0 +1,57 @@
+h1 {
+    color: red;
+    margin-bottom: 0px;
+}
+#css1:hover {
+    color: red;
+}
+a{
+    margin: 20px;
+}
+html{
+    margin: 20px;
+}
+
+.p1spacing{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.pspacing{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.blogformat{
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+html,body{
+    font-family: sans-serif;
+    font-size: large;
+}
+.spanfont{
+    /* font-family: "Roboto","ital"; */
+    font-weight: bold;
+}
+.spanmar{
+    margin-bottom: 30px;
+}
+.disptype{
+    display: flex;
+    flex-direction: row;
+}
+.imageauto{
+    margin: auto 0;
+}
+.imaground{
+    border-radius: 80px;
+}
+.pageallign{
+    display: flex;
+    justify-content: center;
+}
+.headermargin{
+    margin: auto 0;
+    max-width: 700;
+}
