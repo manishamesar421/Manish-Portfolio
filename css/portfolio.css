@@ -1,12 +1,10 @@
 h1 {
-    color: red;
+    color: black;
     margin-bottom: 0px;
+    font-size: 32px;
 }
-#css1:hover {
+.css1:hover {
     color: red;
-}
-a{
-    margin: 20px;
 }
 html{
     margin: 20px;
@@ -20,15 +18,18 @@ html{
     margin-top: 0px;
     margin-bottom: 0px;
 }
-
+h2{
+    color: black;
+}
 .blogformat{
     margin-bottom: 20px;
     border-bottom: 1px solid black;
     padding-bottom: 10px;
 }
 html,body{
-    font-family: sans-serif;
-    font-size: large;
+    font-family: "Inter",sans-serif;
+    font-size: 16px;
+    color: #444444;
 }
 .spanfont{
     /* font-family: "Roboto","ital"; */
@@ -47,11 +48,29 @@ html,body{
 .imaground{
     border-radius: 80px;
 }
-.pageallign{
+.pagecontainer{
     display: flex;
     justify-content: center;
+    flex-direction: column;
+
 }
 .headermargin{
     margin: auto 0;
     max-width: 700;
+}
+.contentcenter{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.rm5{
+    margin-right: 10px;
+}
+.pagemargin{
+    margin-top: 32px;
+}
+.sectionmargin{
+    margin-top: 48px;
+}
+.aunder {
+    text-decoration: none;
 }
