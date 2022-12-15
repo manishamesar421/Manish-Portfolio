@@ -1,0 +1,76 @@
+h1 {
+    color: black;
+    margin-bottom: 0px;
+    font-size: 32px;
+}
+.css1:hover {
+    color: red;
+}
+html{
+    margin: 20px;
+}
+
+.p1spacing{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.pspacing{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2{
+    color: black;
+}
+.blogformat{
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+html,body{
+    font-family: "Inter",sans-serif;
+    font-size: 16px;
+    color: #444444;
+}
+.spanfont{
+    /* font-family: "Roboto","ital"; */
+    font-weight: bold;
+}
+.spanmar{
+    margin-bottom: 30px;
+}
+.disptype{
+    display: flex;
+    flex-direction: row;
+}
+.imageauto{
+    margin: auto 0;
+}
+.imaground{
+    border-radius: 80px;
+}
+.pagecontainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.headermargin{
+    margin: auto 0;
+    max-width: 700;
+}
+.contentcenter{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.rm5{
+    margin-right: 10px;
+}
+.pagemargin{
+    margin-top: 32px;
+}
+.sectionmargin{
+    margin-top: 48px;
+}
+.aunder {
+    text-decoration: none;
+}
